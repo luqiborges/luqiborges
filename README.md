@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋</h3>
 
 <div align="center">
-  I'm Lucas Borges, a new Software Engineer learning about the dev world.
+  I'm Lucas Borges, a new Software Engineer learning about the dev world
 </div>
 
 <br/>
